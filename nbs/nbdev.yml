@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevTutorial"
+  site-url: "https://Sean-RF.github.io/nbdevTutorial"
+  description: "can i to do nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/Sean-RF/nbdevTutorial"
